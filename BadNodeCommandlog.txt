@@ -1,0 +1,15 @@
+
+
+
+
+2019-04-21 12:48:50 concertbad is not a valid command
+
+2019-04-21 12:57:13 badCommandtest is not a valid command
+
+2019-04-21 13:04:47   spotify-this-song is not a valid command
+
+2019-04-21 13:06:54   "spotify-this-song" is not a valid command
+
+2019-04-21 13:09:04   'spotify-this-song' is not a valid command
+
+2019-04-21 13:23:42 spotify-this is not a valid command

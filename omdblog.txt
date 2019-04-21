@@ -1,0 +1,82 @@
+
+
+http://www.omdbapi.com/?t=Superman&y=&plot=short&apikey=trilogy
+
+
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Superman
+Year Released: 1978
+IMDB Rating: 7.4
+Rating Rotten Tomatoes: 94%
+Country Produced :USA, UK, Switzerland, Canada, Panama
+Language :English
+Plot :An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors :Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+
+
+2019-04-21T12:24:34 http://www.omdbapi.com/?t=Superman&y=&plot=short&apikey=trilogy
+
+2019-04-21T12:24:34 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Superman
+Year Released: 1978
+IMDB Rating: 7.4
+Rating Rotten Tomatoes: 94%
+Country Produced :USA, UK, Switzerland, Canada, Panama
+Language :English
+Plot :An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors :Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+
+
+2019-04-21 12:26:03 http://www.omdbapi.com/?t=Superman&y=&plot=short&apikey=trilogy
+
+2019-04-21 12:26:03 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Superman
+Year Released: 1978
+IMDB Rating: 7.4
+Rating Rotten Tomatoes: 94%
+Country Produced :USA, UK, Switzerland, Canada, Panama
+Language :English
+Plot :An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors :Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+
+
+2019-04-21 13:17:35 http://www.omdbapi.com/?t=The Matrix&y=&plot=short&apikey=trilogy
+
+2019-04-21 13:17:35 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: The Matrix
+Year Released: 1999
+IMDB Rating: 8.7
+Rating Rotten Tomatoes: 88%
+Country Produced :USA
+Language :English
+Plot :A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors :Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+
+2019-04-21 13:18:31 http://www.omdbapi.com/?t=Gold Finger&y=&plot=short&apikey=trilogy
+
+2019-04-21 13:18:57 http://www.omdbapi.com/?t=Goldfinger&y=&plot=short&apikey=trilogy
+
+2019-04-21 13:18:57 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Goldfinger
+Year Released: 1964
+IMDB Rating: 7.7
+Rating Rotten Tomatoes: 97%
+Country Produced :UK
+Language :English, Chinese, Spanish
+Plot :While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.
+Actors :Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton

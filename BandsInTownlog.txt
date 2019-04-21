@@ -1,0 +1,605 @@
+
+
+2019-04-21 12:42:36 https://rest.bandsintown.com/artists/Slade/events?app_id=codingbootcamp=upcoming
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Trallaus
+Venue Location: Blaker, Region :
+Date of Concert: Saturday, June 29, 2019 6:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Kulturhalle
+Venue Location: Theley, Region :
+Date of Concert: Saturday, April 27, 2019 8:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Garon Park Cricket Ground
+Venue Location: Morton-on-swale, Region :
+Date of Concert: Sunday, July 21, 2019 7:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Concorde 2
+Venue Location: Brighton, Region :
+Date of Concert: Saturday, September 21, 2019 7:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :CENTRE CULTUREL "LE FORUM"
+Venue Location: Chauny, Region :
+Date of Concert: Saturday, May 11, 2019 5:15 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Hestholmen, Valsøyfjord
+Venue Location: Valsoyfjord, Region :
+Date of Concert: Saturday, August 3, 2019 6:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Forum Horsens
+Venue Location: Horsens, Region :
+Date of Concert: Friday, November 1, 2019 8:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Docken
+Venue Location: O, Region :
+Date of Concert: Saturday, November 2, 2019 8:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Malmö Arena
+Venue Location: Malmo, Region :
+Date of Concert: Sunday, November 3, 2019 7:00 PM
+
+2019-04-21 12:42:37 
+
+***********Bands In Town :***************************
+
+Presenting : Slade
+Venue Name :Tinghallen A/S
+Venue Location: Viborg, Region :
+Date of Concert: Friday, March 6, 2020 8:00 PM
+
+2019-04-21 12:51:40 https://rest.bandsintown.com/artists/Slade/events?app_id=codingbootcamp=upcoming
+
+2019-04-21 12:52:02 https://rest.bandsintown.com/artists/Pink/events?app_id=codingbootcamp=upcoming
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Milwaukee, Region :WI
+Date of Concert: Thursday, May 2, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Detroit, Region :MI
+Date of Concert: Saturday, April 27, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Indianapolis, Region :IN
+Date of Concert: Tuesday, April 30, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Little Caesars Arena 
+Venue Location: Detroit, Region :MI
+Date of Concert: Friday, April 26, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Lexington, Region :KY
+Date of Concert: Thursday, May 9, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Fargo, Region :ND
+Date of Concert: Saturday, May 4, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbus, Region :OH
+Date of Concert: Saturday, May 11, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Omaha, Region :NE
+Date of Concert: Tuesday, May 7, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: St Paul, Region :MN
+Date of Concert: Sunday, May 5, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Scotiabank Arena
+Venue Location: Toronto, Region :
+Date of Concert: Tuesday, May 14, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Toronto, Region :
+Date of Concert: Monday, May 13, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Bell Centre 
+Venue Location: Montreal, Region :
+Date of Concert: Friday, May 17, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Johan Cruijff Stadium
+Venue Location: Amsterdam, Region :
+Date of Concert: Sunday, June 16, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Montreal, Region :
+Date of Concert: Saturday, May 18, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York, Region :NY
+Date of Concert: Tuesday, May 21, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Madison Square Garden
+Venue Location: New York, Region :NY
+Date of Concert: Wednesday, May 22, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :RDS
+Venue Location: Dublin, Region :
+Date of Concert: Tuesday, June 18, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Principality Stadium
+Venue Location: Cardiff, Region :
+Date of Concert: Thursday, June 20, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Hampden Park
+Venue Location: Glasgow, Region :
+Date of Concert: Sunday, June 23, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Anfield Stadium
+Venue Location: Liverpool, Region :
+Date of Concert: Tuesday, June 25, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Rock Werchter Festival 
+Venue Location: Werchter, Region :
+Date of Concert: Thursday, June 27, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Hampden Park
+Venue Location: Glasgow, Region :
+Date of Concert: Saturday, June 22, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Wembley Stadium
+Venue Location: London, Region :
+Date of Concert: Saturday, June 29, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Wembley Stadium
+Venue Location: London, Region :
+Date of Concert: Sunday, June 30, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Rhein Energie Stadion
+Venue Location: Cologne, Region :
+Date of Concert: Friday, July 5, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Rhein Energie Stadion
+Venue Location: Cologne, Region :
+Date of Concert: Saturday, July 6, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Volksparkstadion
+Venue Location: Hamburg, Region :
+Date of Concert: Monday, July 8, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :La Defense Arena
+Venue Location: Paris, Region :
+Date of Concert: Wednesday, July 3, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Mercedes-Benz Arena
+Venue Location: Stuttgart, Region :
+Date of Concert: Wednesday, July 10, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :HDI Arena
+Venue Location: Hannover, Region :
+Date of Concert: Friday, July 12, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Olympiastadion Berlin
+Venue Location: Berlin, Region :
+Date of Concert: Sunday, July 14, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Commerzbank Arena
+Venue Location: Frankfurt, Region :
+Date of Concert: Monday, July 22, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :PGE Narodowy Stadium
+Venue Location: Warsaw, Region :
+Date of Concert: Saturday, July 20, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Ernst Happel Stadium
+Venue Location: Wien, Region :
+Date of Concert: Wednesday, July 24, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Olympiastadion Munchen
+Venue Location: München, Region :
+Date of Concert: Friday, July 26, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Olympiastadion Munchen
+Venue Location: München, Region :
+Date of Concert: Saturday, July 27, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Letzigrund Stadium
+Venue Location: Zürich, Region :
+Date of Concert: Tuesday, July 30, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Telenor Arena
+Venue Location: Oslo, Region :
+Date of Concert: Monday, August 5, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Tele2 Arena
+Venue Location: Stockholm, Region :
+Date of Concert: Saturday, August 3, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Stadium Casa Arena
+Venue Location: Horsens, Region :
+Date of Concert: Wednesday, August 7, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :VELTINS-Arena
+Venue Location: Ge, Region :
+Date of Concert: Friday, August 9, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Malieveld Pavillion
+Venue Location: Den Haag, Region :
+Date of Concert: Sunday, August 11, 2019 7:00 PM
+
+2019-04-21 12:52:02 
+
+***********Bands In Town :***************************
+
+Presenting : Pink
+Venue Name :Rock in Rio
+Venue Location: Rio De Janeiro, Region :
+Date of Concert: Saturday, October 5, 2019 7:00 PM
+
+2019-04-21 12:54:41 https://rest.bandsintown.com/artists/Josh Groban/events?app_id=codingbootcamp=upcoming
+
+2019-04-21 12:55:06 https://rest.bandsintown.com/artists/Rolling Stones/events?app_id=codingbootcamp=upcoming
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :TIAA Bank Field
+Venue Location: Jacksonville, Region :FL
+Date of Concert: Wednesday, April 24, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :Fairgrounds New Orleans
+Venue Location: New Orleans, Region :LA
+Date of Concert: Thursday, May 2, 2019 12:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :NRG Arena
+Venue Location: Houston, Region :TX
+Date of Concert: Sunday, April 28, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :State Farm Stadium
+Venue Location: Glendale, Region :AZ
+Date of Concert: Tuesday, May 7, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :Broncos Stadium at Mile High
+Venue Location: Denver, Region :CO
+Date of Concert: Sunday, May 26, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :Lincoln Financial Field
+Venue Location: Philadelphia, Region :PA
+Date of Concert: Tuesday, June 4, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :FedEx Field
+Venue Location: Landover, Region :MD
+Date of Concert: Friday, May 31, 2019 7:30 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :CenturyLink Field
+Venue Location: Seattle, Region :WA
+Date of Concert: Wednesday, May 22, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :MetLife Stadium
+Venue Location: East Rutherford, Region :NJ
+Date of Concert: Thursday, June 13, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :Gillette Stadium
+Venue Location: Foxborough, Region :MA
+Date of Concert: Saturday, June 8, 2019 7:00 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :MetLife Stadium
+Venue Location: East Rutherford, Region :NJ
+Date of Concert: Monday, June 17, 2019 7:30 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :Soldier Field
+Venue Location: Chicago, Region :IL
+Date of Concert: Tuesday, June 25, 2019 7:30 PM
+
+2019-04-21 12:55:06 
+
+***********Bands In Town :***************************
+
+Presenting : Rolling Stones
+Venue Name :Soldier Field
+Venue Location: Chicago, Region :IL
+Date of Concert: Friday, June 21, 2019 7:00 PM
