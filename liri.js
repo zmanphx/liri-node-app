@@ -16,7 +16,7 @@ appendlog("NodeCommandLog.text", nodeArgs);
 console.log("my node args " + nodeArgs);
 var commandarg = process.argv[2];
 console.log("my command " + commandarg);
-var resplice = nodeArgs.splice(3);
+var resplice = nodeArgs.splice(3).join(' ');
 
 console.log("my node thing " + resplice);
 nodeCommands(commandarg, resplice);

@@ -80,3 +80,67 @@ Country Produced :UK
 Language :English, Chinese, Spanish
 Plot :While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.
 Actors :Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton
+
+
+2019-04-23 18:16:33 http://www.omdbapi.com/?t=grease&y=&plot=short&apikey=trilogy
+
+2019-04-23 18:16:33 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Grease
+Year Released: 1978
+IMDB Rating: 7.2
+Rating Rotten Tomatoes: 75%
+Country Produced :USA
+Language :English
+Plot :Good girl Sandy and greaser Danny fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?
+Actors :John Travolta, Olivia Newton-John, Stockard Channing, Jeff Conaway
+
+
+2019-04-23 18:17:09 http://www.omdbapi.com/?t=Close Encounters of the third kind&y=&plot=short&apikey=trilogy
+
+2019-04-23 18:17:09 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Close Encounters of the Third Kind
+Year Released: 1977
+IMDB Rating: 7.7
+Rating Rotten Tomatoes: 96%
+Country Produced :USA
+Language :English, French, Spanish, Hindi
+Plot :Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.
+Actors :Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon
+
+
+2019-04-23 18:18:06 http://www.omdbapi.com/?t=Close Encounters of the third kind&y=&plot=short&apikey=trilogy
+
+2019-04-23 18:18:06 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Close Encounters of the Third Kind
+Year Released: 1977
+IMDB Rating: 7.7
+Rating Rotten Tomatoes: 96%
+Country Produced :USA
+Language :English, French, Spanish, Hindi
+Plot :Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.
+Actors :Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon
+
+
+2019-04-23 18:18:35 http://www.omdbapi.com/?t=Close Encounters of the third kind&y=&plot=short&apikey=trilogy
+
+2019-04-23 18:18:36 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Close Encounters of the Third Kind
+Year Released: 1977
+IMDB Rating: 7.7
+Rating Rotten Tomatoes: 96%
+Country Produced :USA
+Language :English, French, Spanish, Hindi
+Plot :Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.
+Actors :Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon
