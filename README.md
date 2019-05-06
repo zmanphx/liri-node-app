@@ -36,7 +36,7 @@ ___
 Reading the contents of text file to run spotify for
 *I want it that way by Back Street Boys*. ***do-what-it-says***
 
-![](doWhatitSaysCapture.JPG)
+![](doWhatItSaysCapture.JPG)
  
  ___
  **Logging** and **font console color**
