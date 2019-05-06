@@ -46,7 +46,10 @@ function nodeCommands(command, thing) {
 function omdbFind(movie) {
   var movieName = movie;
   //************************Call omdb api */
-
+    if(!movieName){movieName ="Mr.Nobody";
+  
+    console.log("movie was empty");
+  }
   // Then run a request with axios to the OMDB API with the movie specified
   var queryUrl =
     "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";

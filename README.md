@@ -17,7 +17,13 @@ ___
 **OMDB api**: Getting movie information using ***movie-this***   _[movie title]_. 
 
 ![](OmdbCapture.JPG)
+
+If no movie is entered then it will default to **"Mr. Nobody"***. 
+![](mrNobody.JPG)
+
 ___
+
+
 **Bands-in-Town Api**: Getting concert events using at the command line ***concert-this*** *[band or artist name]* 
 
 ![](bandsInTownExample1.JPG)

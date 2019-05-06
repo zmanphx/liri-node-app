@@ -144,3 +144,49 @@ Country Produced :USA
 Language :English, French, Spanish, Hindi
 Plot :Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.
 Actors :Richard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon
+
+
+2019-05-05 20:58:08 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 20:59:25 http://www.omdbapi.com/?t=beverly hills cop&y=&plot=short&apikey=trilogy
+
+2019-05-05 20:59:25 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Beverly Hills Cop
+Year Released: 1984
+IMDB Rating: 7.3
+Rating Rotten Tomatoes: 82%
+Country Produced :USA
+Language :English
+Plot :A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.
+Actors :Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher
+
+
+2019-05-05 20:59:55 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:00:53 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:02:07 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:02:43 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:06:16 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:07:10 http://www.omdbapi.com/?t=&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:07:48 http://www.omdbapi.com/?t=Mr.Nobody&y=&plot=short&apikey=trilogy
+
+2019-05-05 21:07:48 
+
+***************Movie Query**OMDB*************************
+
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.8
+Rating Rotten Tomatoes: 67%
+Country Produced :Belgium, Germany, Canada, France, USA, UK
+Language :English, Mohawk
+Plot :A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors :Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
